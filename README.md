@@ -11,3 +11,9 @@ This game is for my COP 3003 project assignment.
 
 # Built-With
 [Placeholder to update programs I build with]
+
+# Author
+Michael Martinez
+
+# Acknowledgments
+https://lazyfoo.net/tutorials/SDL/
