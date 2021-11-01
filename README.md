@@ -17,6 +17,7 @@ Michael Martinez
 
 # Acknowledgments
 Lazy Foo' Productions
+
 https://lazyfoo.net/tutorials/SDL/
 
 https://www.youtube.com/channel/UCCKlrE0p4IZxqBpq98KFBmw
