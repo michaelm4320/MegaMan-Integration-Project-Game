@@ -16,4 +16,7 @@ This game is for my COP 3003 project assignment.
 Michael Martinez
 
 # Acknowledgments
+Lazy Foo' Productions
 https://lazyfoo.net/tutorials/SDL/
+
+https://www.youtube.com/channel/UCCKlrE0p4IZxqBpq98KFBmw
