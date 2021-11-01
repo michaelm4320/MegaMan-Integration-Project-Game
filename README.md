@@ -1,5 +1,5 @@
 # Integration-Game-Project
-This game is for my COP 3003 project assignment. The game is Megaman Battle Network 6 Cybeast Gregar, a strategy/action RPG.
+This game is for my COP 3003 project assignment. The game is Megaman Battle Network 6 Cybeast Gregar, a strategy and action RPG.
 
 # Demonstration
 Title Screen
