@@ -1,5 +1,0 @@
-﻿  main.cpp
-  StartScreen.cpp
-C:\Users\Michael\Desktop\GameProject\StartScreen.cpp(90,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-  Generating Code...
-  GameProject.vcxproj -> C:\Users\Michael\Desktop\GameProject\Debug\GameProject.exe
