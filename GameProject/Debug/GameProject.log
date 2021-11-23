@@ -1,0 +1,30 @@
+﻿  AnimatedTexture.cpp
+  AssetManager.cpp
+  AudioManager.cpp
+  GameEntity.cpp
+C:\Users\Michael\Desktop\QuickSDL\GameEntity.cpp(56,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\QuickSDL\GameEntity.cpp(61,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameManager.cpp
+C:\Users\Michael\Desktop\QuickSDL\GameManager.cpp(35,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Graphics.cpp
+  InputManager.cpp
+  main.cpp
+  Texture.cpp
+  Timer.cpp
+  Bullet.cpp
+  Controls.cpp
+  Level.cpp
+  PlayBG.cpp
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(104,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(110,39): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(111,30): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(126,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Michael\Desktop\GameProject\PlayBG.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+  PlayScreen.cpp
+  ScreenManager.cpp
+  StartScreen.cpp
+C:\Users\Michael\Desktop\GameProject\StartScreen.cpp(95,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  GameProject.vcxproj -> C:\Users\Michael\Desktop\GameProject\Debug\GameProject.exe
