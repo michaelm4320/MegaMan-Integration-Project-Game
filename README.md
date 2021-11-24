@@ -7,14 +7,13 @@ Title Screen
 ![TitleScreen](https://user-images.githubusercontent.com/62119636/139610430-633a53f0-bcbf-47a3-945a-833cc9d71795.gif)
 
 Updated title screen with new controls option
-![Uploading New Title Screen.gif…]()
+![New Title Screen](https://user-images.githubusercontent.com/62119636/143296158-0a3e41b1-23a2-41cd-a152-ada4434128a9.gif)
 
 Controls menu
 ![Control Screen](https://user-images.githubusercontent.com/62119636/143295997-5f0b8e53-9297-4605-8936-560d95d5f282.PNG)
 
 New game with animated background stage and player interface
-![Uploading Starting New Game.gif…]()
-
+![Starting New Game](https://user-images.githubusercontent.com/62119636/143296202-2ab26af1-6b10-4375-876c-e98c182f5970.gif)
 
 Player movement
 ![Movement](https://user-images.githubusercontent.com/62119636/143295781-d840e8fa-aeab-4887-aa16-34be13b58ec1.gif)
@@ -24,7 +23,7 @@ Player shooting
 ![Player Shooting](https://user-images.githubusercontent.com/62119636/143295798-a201d9ee-bc02-45d2-bc0a-ede39a02bfed.gif)
 
 Game over
-![Uploading Game Over.gif…]()
+![Game Over](https://user-images.githubusercontent.com/62119636/143296233-5c4e8abb-795f-4572-b3f3-f7e94c3bc6f0.gif)
 
 
 # Getting-Started
