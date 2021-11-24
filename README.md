@@ -2,7 +2,7 @@
 This game is for my COP 3003 project assignment. The game is Megaman Battle Network 6 Cybeast Gregar, a strategy and action RPG. The project will consist of a Start Screen along with a stage for the player to fight against viruses.
 
 # Demonstration
-Title Screen
+Old Title Screen
 
 ![TitleScreen](https://user-images.githubusercontent.com/62119636/139610430-633a53f0-bcbf-47a3-945a-833cc9d71795.gif)
 
@@ -57,5 +57,6 @@ Michael Martinez
 Lazy Goo' Production - https://lazyfoo.net/tutorials/SDL/
 
 Youtube - Ather Omar (https://www.youtube.com/channel/UCCKlrE0p4IZxqBpq98KFBmw)
+
 
 
