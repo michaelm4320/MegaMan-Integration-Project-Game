@@ -7,11 +7,13 @@ Title Screen
 ![TitleScreen](https://user-images.githubusercontent.com/62119636/139610430-633a53f0-bcbf-47a3-945a-833cc9d71795.gif)
 
 Updated title screen with new controls option
+![Uploading New Title Screen.gif…]()
 
 Controls menu
+![Control Screen](https://user-images.githubusercontent.com/62119636/143295997-5f0b8e53-9297-4605-8936-560d95d5f282.PNG)
 
 New game with animated background stage and player interface
-![Uploading New Title Screen.gif…]()
+![Uploading Starting New Game.gif…]()
 
 
 Player movement
