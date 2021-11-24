@@ -6,7 +6,17 @@ Title Screen
 
 ![TitleScreen](https://user-images.githubusercontent.com/62119636/139610430-633a53f0-bcbf-47a3-945a-833cc9d71795.gif)
 
-Battle stage will be added soon.
+Updated title screen with new controls option
+
+Controls menu
+
+New game with animated background stage and player interface
+
+Player movement
+
+Player shooting
+
+Player death
 
 # Getting-Started
 To run the program, you will need "SDL2 Files" and "QuickSDL."
@@ -30,7 +40,7 @@ Visual Studio Community 2019
 Michael Martinez
 
 # Acknowledgments
-https://lazyfoo.net/tutorials/SDL/
+Lazy Goo' Production - https://lazyfoo.net/tutorials/SDL/
 
 Youtube - Ather Omar (https://www.youtube.com/channel/UCCKlrE0p4IZxqBpq98KFBmw)
 
