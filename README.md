@@ -11,12 +11,19 @@ Updated title screen with new controls option
 Controls menu
 
 New game with animated background stage and player interface
+![Uploading New Title Screen.gif…]()
+
 
 Player movement
+![Movement](https://user-images.githubusercontent.com/62119636/143295781-d840e8fa-aeab-4887-aa16-34be13b58ec1.gif)
+
 
 Player shooting
+![Player Shooting](https://user-images.githubusercontent.com/62119636/143295798-a201d9ee-bc02-45d2-bc0a-ede39a02bfed.gif)
 
-Player death
+Game over
+![Uploading Game Over.gif…]()
+
 
 # Getting-Started
 To run the program, you will need "SDL2 Files" and "QuickSDL."
